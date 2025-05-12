@@ -1,4 +1,3 @@
-# Pneumonia-Detection
 # Pneumonia Detection Using Deep Learning 
 This mini project aims to detect Pneumonia in chest X-ray images using a Convolutional Neural Network (CNN)-based deep learning approach. The model is built using TensorFlow/Keras and visualized with Matplotlib and Seaborn.
 
